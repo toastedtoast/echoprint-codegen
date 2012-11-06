@@ -5,4 +5,5 @@
 //  Created by Art Gillespie on 5/14/11.
 //
 
-HEADER_SEARCH_PATHS = /usr/local/include/boost-1_35
+//HEADER_SEARCH_PATHS = /usr/local/include/boost-1_50
+HEADER_SEARCH_PATHS = /Users/marcok/Library/Frameworks/C++/boost_1_52_0

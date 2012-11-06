@@ -258,6 +258,10 @@
 				DSTROOT = /tmp/echoprint_codegen_ios.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "echoprint-codegen-ios/echoprint-codegen-ios-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"/Users/marcok/Library/Frameworks/C++/boost_1_52_0",
+					"/usr/local/include/boost-1_50",
+				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -270,6 +274,10 @@
 				DSTROOT = /tmp/echoprint_codegen_ios.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "echoprint-codegen-ios/echoprint-codegen-ios-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"/Users/marcok/Library/Frameworks/C++/boost_1_52_0",
+					"/usr/local/include/boost-1_50",
+				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
